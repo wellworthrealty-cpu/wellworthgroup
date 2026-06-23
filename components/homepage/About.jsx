@@ -73,7 +73,7 @@ const About3 = () => {
               We are a Raipur-based residential plot developer with over 10
               years of experience in Chhattisgarh real estate. Every plot we
               sell comes with a clear title, complete documentation, and ready
-              infrastructure — no delays, no hidden charges.
+              infrastructure.
             </p>
             <p className="text-gray-400 leading-relaxed">
               Our office is at Currency Tower, 3rd Floor, VIP Road, Raipur. Walk
